@@ -17,11 +17,11 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/images/car.png)](https://www.youtube.com/watch?v=OrYLUcC7zx4_5)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/imagescar.png)](https://www.youtube.com/watch?v=OrYLUcC7zx4_5)
 
-### The detailed list of the hijackable utterances can be found in ./[violation](https://github.com/voice-assistant-research/IoT-skills/policy_detector)
+### The detailed list of the hijackable utterances can be found in ./[violation](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/images/car_summary.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car_summary.png)
 
 ### Skills in Smart home skills
 
@@ -34,7 +34,7 @@ Keep Dialogues | 8 |Home Miner |
 Scenario | 17 | My things | 
 
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/images/hijacking.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/hijacking.png)
 
 ### Skills with unsolicited behaviors
 
@@ -48,15 +48,15 @@ Having an ncomplete privacy policy | 330 | 104 |8|
 Having a deceptive privacy policy |38|12|2|
 Should ask for permission |-|-|17|
 
-![Unsolicited](https://github.com/voice-assistant-research/IoT-skills//images/deceptive_policy.png)
+![Unsolicited](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/deceptive_policy.png)
 
 
 ### User reviews
 
 We have detected 8 skills with policy violations hidden in the audio or image files. 4 of the skills in the Kids category. 4 non-kid skills contain data collection, while 2 of them lack a privacy policy and 2 more have incomplete privacy policies. The skill "Shape Game" asks "what is your name" in the audio file output, but does not provide a privacy policy.
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/images/user_review.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/user_review.png)
 
 
 ## Summary of policy violations identified by SKILLDETECTIVE
-![Summary](https://github.com/voice-assistant-research/IoT-skills/images/results.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/results.png)
