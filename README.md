@@ -58,5 +58,5 @@ We have detected 8 skills with policy violations hidden in the audio or image fi
 ![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/user_review.png)
 
 
-## Summary of policy violations identified by SKILLDETECTIVE
+## Summary of our findings
 ![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/results.png)
