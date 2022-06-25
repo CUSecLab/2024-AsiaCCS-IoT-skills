@@ -17,7 +17,7 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/imagescar.png)](https://www.youtube.com/watch?v=OrYUc4_5)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://www.youtube.com/watch?v=OrYUc4_5)
 
 ### The detailed list of the hijackable utterances can be found in ./[violation](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
 
@@ -25,7 +25,7 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Skills in Smart home skills
 
-We tested all 2,632 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
+We tested all 2,332 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
 
 Skill Hijacking Category | # of Skills | Example |
 :---: | :---: | :---:| 
