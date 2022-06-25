@@ -17,9 +17,9 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://www.youtube.com/watch?v=OrYUc4_5)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://www.youtube.com/watch?v=Or)
 
-### The detailed list of the hijackable utterances can be found in ./[violation](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
+### The detailed list of the hijackable utterances can be found in ./[results](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
 
 ![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car_summary.png)
 
@@ -38,9 +38,9 @@ Scenario | 17 | My things |
 
 ### Skills with unsolicited behaviors
 
-For the general (non-Kids and non-Health) categories, we identified 480 skills and 61 actions collecting personal data without using permission APIs (they collect user data through the conversation interface). There are also 1,369 skills collecting personal data using permission APIs in the Amazon Alexa platform. Among all these skills with data collection, 623 skills and 25 actions violate at last one policy, such as lacking a privacy policy, having an incomplete or deceptive privacy policy.
+For the general categories, we identified 480 skills and 61 actions collecting personal data without using permission APIs (they collect user data through the conversation interface). There are also 1,369 skills collecting personal data using permission APIs in the Amazon Alexa platform. Among all these skills with data collection, 623 skills and 25 actions violate at last one policy, such as lacking a privacy policy, having an incomplete or deceptive privacy policy.
 
-Skills | Skills Collect Data Through Permission APIs | Skills Collect Data Without Using Permission APIs | Action |
+Skills | Skills with extra behaviors | Skills with wrong behaviors |
 :---: | :---: | :---:| :---:| 
 Collecting data | 1,369 | 480 | 61|
 Lacking a privacy policy| 1 | 171 | 0 |
