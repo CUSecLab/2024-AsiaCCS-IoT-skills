@@ -38,7 +38,7 @@ Scenario | 17 | My things |
 
 ### Skills with unsolicited behaviors
 
-For the general categories, we identified 480 skills and 61 actions collecting personal data without using permission APIs (they collect user data through the conversation interface). There are also 1,369 skills collecting personal data using permission APIs in the Amazon Alexa platform. Among all these skills with data collection, 623 skills and 25 actions violate at last one policy, such as lacking a privacy policy, having an incomplete or deceptive privacy policy.
+For the skills backend code, we identify 
 
 Skills | Skills with extra behaviors | Skills with wrong behaviors |
 :---: | :---: | :---:| :---:| 
