@@ -17,7 +17,7 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://www.youtube.com/watch?v=Or)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://youtu.be/2KpAQu4ekqE)
 
 ### The detailed list of the hijackable utterances can be found in ./[results](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
 
@@ -40,10 +40,10 @@ Scenario | 17 | My things |
 
 For the skills backend code, we identify 
 
-Skills | Skills with extra behaviors | Skills with wrong behaviors |
+Skills |  |  |
 :---: | :---: | :---:| :---:| 
-Collecting data | 1,369 | 480 | 61|
-Lacking a privacy policy| 1 | 171 | 0 |
+Skills with extra behaviors | 1,369 | 480 | 61|
+Skills with wrong behaviors| 1 | 171 | 0 |
 Having an ncomplete privacy policy | 330 | 104 |8|
 Having a deceptive privacy policy |38|12|2|
 Should ask for permission |-|-|17|
