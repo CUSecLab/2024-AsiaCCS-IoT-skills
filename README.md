@@ -17,11 +17,11 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/combine1.png)](https://youtu.be/3No2eCBTq-s)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/3No2eCBTq-s)
 
 ### The detailed list of the hijackable utterances can be found in here:
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car_summary.png)
+[![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car_summary.png)]
 
 ### Skills in Smart home skills
 
