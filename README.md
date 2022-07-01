@@ -21,7 +21,11 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### The detailed list of the hijackable utterances can be found in here:
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car_summary.png)
+Utterance examples | Hajcked utterances | Slots|
+:---: | :---: | :---:| 
+Lock my car | 4 | 3  | 
+Open my trunk | 4 | 3 |  
+Is my car running? | 4 | 3 | 
 
 ### Problematic Skills in Smart home skills
 
