@@ -27,14 +27,12 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 We tested all 2,332 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
 
-Skill Hijacking Category | # of Skills | Example |
-:---: | :---: | :---:| 
-Built-in Intent | 16 | SPA  | 
-Keep Dialogues | 8 |Home Miner | 
-Scenario | 17 | My things | 
+Skill Hijacking Category | # of Skills | Example | Utterances|
+:---: | :---: | :---:| :---:|
+Built-in Intent | 16 | SPA  | Turn up the temperature |
+Keep Dialogues | 8 |Home Miner |  Stop all devices |
+Scenario | 17 | My things | Setup guard |
 
-
-![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/hijacking.png)
 
 ### Skills with unsolicited behaviors
 
