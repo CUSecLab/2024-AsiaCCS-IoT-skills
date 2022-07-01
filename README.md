@@ -17,7 +17,7 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### Here is a demo for the connected car skill testing. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/0Ubn-DBBTFk)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/Q5y1w-lzRt0)
 
 ### The detailed list of the hijackable utterances can be found in here:
 
