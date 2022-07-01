@@ -29,7 +29,7 @@ Is my car running? | 4 | 3 |
 
 ### Problematic Skills in Smart home skills
 
-We tested all 2,332 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
+We tested all 3122 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
 
 Skill Hijacking Category | # of Skills | Example | Utterances|
 :---: | :---: | :---:| :---:|
@@ -50,5 +50,12 @@ For the skills backend code, we identify skills with potential problems as follo
 
 We also use negative user reviews of skills to confirm our findings. We listed the comparison of user reviews from IoT skills with all other skills.
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/user_review.png)
-
+Skill category | IoT skills | All others|
+:---: | :---: | :---:| 
+Skill number | 3,122 | 76,533  | 
+Skill with reviews | 1,319 | 24,844 |  
+Review number | 85,731 | 424,071 |  
+Average skill reviews | 65 | 17 | 
+average negative review number | 20.8 | 2.8  | 
+negative review percentage | 32% | 16% |  
+Average skill stars | 2.97 | 3.65 | 
