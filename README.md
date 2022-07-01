@@ -21,9 +21,9 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ### The detailed list of the hijackable utterances can be found in here:
 
-[![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car_summary.png)]
+![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car_summary.png)
 
-### Skills in Smart home skills
+### Problematic Skills in Smart home skills
 
 We tested all 2,332 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
 
@@ -34,29 +34,19 @@ Keep Dialogues | 8 |Home Miner |
 Scenario | 17 | My things | 
 
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/hijacking.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/hijacking.png)
 
 ### Skills with unsolicited behaviors
 
-For the skills backend code, we identify 
+For the skills backend code, we identify skills with potential problems as follows:
 
-Skills |  |  |
-:---: | :---: | :---:| :---:| 
-Skills with extra behaviors | 1,369 | 480 | 61|
-Skills with wrong behaviors| 1 | 171 | 0 |
-Having an ncomplete privacy policy | 330 | 104 |8|
-Having a deceptive privacy policy |38|12|2|
-Should ask for permission |-|-|17|
 
-![Unsolicited](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/deceptive_policy.png)
+![Unsolicited](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/unsolicited.png)
 
 
 ### User reviews
 
-We have detected 8 skills with policy violations hidden in the audio or image files. 4 of the skills in the Kids category. 4 non-kid skills contain data collection, while 2 of them lack a privacy policy and 2 more have incomplete privacy policies. The skill "Shape Game" asks "what is your name" in the audio file output, but does not provide a privacy policy.
+We also use negative user reviews of skills to confirm our findings. We listed the comparison of user reviews from IoT skills with all other skills.
 
-![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/user_review.png)
+![Summary](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/user_review.png)
 
-
-## Summary of our findings
-![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/results.png)
