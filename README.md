@@ -19,7 +19,7 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 [![Watch the video](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car.png)](https://youtu.be/3No2eCBTq-s)
 
-### The detailed list of the hijackable utterances can be found in ./[results](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/policy_detector)
+### The detailed list of the hijackable utterances can be found in ./[results](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/combine1.png)
 
 ![Summary](https://github.com/voice-assistant-research/IoT-skills/tree/main/images/car_summary.png)
 
