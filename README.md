@@ -1,4 +1,4 @@
-# Hey Alexa, Close the Garage Door: Understanding Security Risks of Alexa IoT Skills
+# Command Hijacking on Voice-Controlled IoT in Amazon Alexa Platform
 
 ## Introduction
 
