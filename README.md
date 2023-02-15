@@ -39,12 +39,6 @@ Keep Dialogues | 8 |Home Miner |  Stop all devices |
 Scenario | 17 | My things | Setup guard |
 
 
-### Skills with unsolicited behaviors
-
-For the skills backend code, we identify skills with potential problems as follows:
-
-
-![Unsolicited](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/unsolicited.png)
 
 
 ### User reviews
