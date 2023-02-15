@@ -14,18 +14,19 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 
 ## Major findings
+### Here is a demo for the smart home different category skill hijacking. 
 
-### Here is a demo for the connected car skill testing. 
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/Q5y1)
+
+### Here is a demo for the smart home customized built-in intent hijacking. 
+
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube2.png)](https://youtu.be/Q5y1w-l0)
+
+
+### Here is a demo for the connected car skill hijacking with customized intent. 
 
 [![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/Q5y1w-lzRt0)
 
-### The detailed list of the hijackable utterances can be found in here:
-
-Utterance examples | Hajcked utterances | Slots|
-:---: | :---: | :---:| 
-Lock my car | 4 | 3  | 
-Open my trunk | 4 | 3 |  
-Is my car running? | 4 | 3 | 
 
 ### Problematic Skills in Smart home skills
 
