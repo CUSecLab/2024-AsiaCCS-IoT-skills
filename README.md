@@ -10,7 +10,15 @@ In this work, we design and develop the IOTSKILLANALYZER, which is a scalable an
 skills. This attack is different from existing squatting attacks because attackers do not need to mimic the pronunciation, but using the exactly same command to hijack skill invocations. We found an effective method to exploit the intent matching process to increase the invocation priority of a malicious skills when users issue
 a common voice command (e.g., Alexa’s built-in voice command) of a benign skill.
 
-* Findings: Comprehensive security analysis of IoT skills. With IOT-SKILLANALYZER, we were able to test 588 Alexa IoT skills and collected 536 textual log outputs. We identified 67 skills with potential problems. We also conducted a comprehensive user review analysis to further identify potential problematic IoT skills. We found 26 skills have unsolicited behaviors when it comes to controlling IoT devices, such as failing to control device, doing unexpected tasks, or providing wrong device controlling information to users. 
+* Findings: Comprehensive security analysis of IoT skills. With IOT-SKILLANALYZER, we were able to test 488 Alexa IoT skills and collected 536 textual log outputs. We identified 67 skills with potential problems. We also conducted a comprehensive user review analysis to further identify potential problematic IoT skills. We found 26 skills have unsolicited behaviors when it comes to controlling IoT devices, such as failing to control device, doing unexpected tasks, or providing wrong device controlling information to users. 
+
+## Testing bed
+### Alexa and smart home settings
+
+### Car skill and devices
+![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png)
+![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.png)
+The drone mobile console provides ten functions for remote control, such as location, locking, opening windows, opening trunk, .
 
 
 ## Major findings
