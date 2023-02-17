@@ -15,10 +15,14 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 ## Testing bed
 ### Alexa and smart home settings
 
+
 ### Car skill and devices
-![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png )
-![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.png )
-The drone mobile console provides ten functions for remote control, such as location, locking, opening windows, opening trunk, .
+![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png)
+We used a 2010 corolla and installed the drone mobile control kit on it.
+
+![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.pn)
+The drone mobile console provides ten functions for remote control, such as locating, locking, opening windows, opening trunk, and alarming.
+Then we link the Drone account to Alexa DroneMobile Skill to test their commands.
 
 
 ## Major findings
