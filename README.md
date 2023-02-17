@@ -16,8 +16,8 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 ### Alexa and smart home settings
 
 ### Car skill and devices
-![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png)
-![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.png)
+![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png =350x350)
+![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.png =350x 350)
 The drone mobile console provides ten functions for remote control, such as location, locking, opening windows, opening trunk, .
 
 
