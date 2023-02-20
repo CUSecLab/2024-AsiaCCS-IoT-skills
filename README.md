@@ -37,7 +37,7 @@ Then we link the Drone account to Alexa DroneMobile Skill to test their commands
 
 ### Here is a demo for the connected car skill hijacking with customized intent. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/Q5y1w-lzRt0)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/qXoLW47Bw64)
 
 
 ### Problematic Skills in Smart home skills
