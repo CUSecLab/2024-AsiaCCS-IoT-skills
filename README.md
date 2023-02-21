@@ -14,7 +14,8 @@ a common voice command (e.g., Alexa’s built-in voice command) of a benign skil
 
 ## Testing bed
 ### Alexa and smart home settings
-
+![The smart home devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/devices.png)
+We used two Alexa devices and a set of other smart home devices such as August lock, smartThings, Bulbs, window and curtain opener, and automatic garage door.
 
 ### Car skill and devices
 ![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png)
