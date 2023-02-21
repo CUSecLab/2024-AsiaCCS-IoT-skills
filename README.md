@@ -4,11 +4,9 @@
 
 In this work, we design and develop the IOTSKILLANALYZER, which is a scalable and robust testing tool to identify skills with problematic interaction model and backend code. We make the following contributions:
 
-* New tool development: We designed and developed the first dynamic testing tool, named IOTSKILLANALYZER, to examine IoT skills in the Alexa skill store. Our tool can automatically enable testing skills and their related devices, analyze input/output utterances, and extract skills’ logs for abnormal detection.
+* New intent hijacking attack. We discovered a new vulnerability in the intent matching process, which can hijack Alexa’s built-in voice commands to invoke malicious skills. This attack is different from existing squatting attacks because attackers do not need to mimic the pronunciation, but using the exactly same command to hijack skill invocations. We found an effective method to exploit the intent matching process to increase the invocation priority of a malicious skills when users give a common voice command.
 
-* New intent hijacking attack. We discovered a new vulnerability in the intent matching process, which can hijack Alexa’s built-in voice commands to invoke malicious
-skills. This attack is different from existing squatting attacks because attackers do not need to mimic the pronunciation, but using the exactly same command to hijack skill invocations. We found an effective method to exploit the intent matching process to increase the invocation priority of a malicious skills when users issue
-a common voice command (e.g., Alexa’s built-in voice command) of a benign skill.
+* New tool development: We designed and developed the first dynamic testing tool, named IOTSKILLANALYZER, to examine IoT skills in the Alexa skill store. Our tool can automatically enable testing skills and their related devices, analyze input/output utterances, and extract skills’ logs for abnormal detection.
 
 * Findings: Comprehensive security analysis of IoT skills. With IOT-SKILLANALYZER, we were able to test 488 Alexa IoT skills and collected 536 textual log outputs. We identified 67 skills with potential problems. We also conducted a comprehensive user review analysis to further identify potential problematic IoT skills. We found 26 skills have unsolicited behaviors when it comes to controlling IoT devices, such as failing to control device, doing unexpected tasks, or providing wrong device controlling information to users. 
 
@@ -27,13 +25,10 @@ Then we link the Drone account to Alexa DroneMobile Skill to test their commands
 
 
 ## Major findings
-### Here is a demo for the smart home different category skill hijacking. 
+### Here is a demo for the smart home different category skill hijacking. These kind of hacking can lead to Denial-of-Service attacks, which can block some critical actions of devices, e.g., locking.
 
 [![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/9H6A7eSKoAQ)
 
-### Here is a demo for the smart home customized built-in intent hijacking. 
-
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube2.png)](https://youtu.be/Q5y1w-l0)
 
 
 ### Here is a demo for the connected car skill hijacking with customized intent. 
