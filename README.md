@@ -13,13 +13,16 @@ In this work, we design and develop the IOTSKILLANALYZER, which is a scalable an
 ## Testing bed
 ### Alexa and smart home settings
 ![The smart home devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/devices.png)
+
 We used two Alexa devices and a set of other smart home devices such as August lock, smartThings, Bulbs, window and curtain opener, and automatic garage door.
 
 ### Car skill and devices
 ![The car and installed devices](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car3.png)
-We used a 2010 corolla and installed the drone mobile control kit on it.
+
+We used a 2010 corolla and installed the drone mobile control kit on it. This kit can control the car through LTE connections. By linking drone skill to the Alexa account, the user could control their car through voice commands.
 
 ![The drone mobile app](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/car.png)
+
 The drone mobile console provides ten functions for remote control, such as locating, locking, opening windows, opening trunk, and alarming.
 Then we link the Drone account to Alexa DroneMobile Skill to test their commands.
 
