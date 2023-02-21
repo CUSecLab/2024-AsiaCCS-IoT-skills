@@ -28,7 +28,7 @@ Then we link the Drone account to Alexa DroneMobile Skill to test their commands
 ## Major findings
 ### Here is a demo for the smart home different category skill hijacking. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/Q5y1)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/9H6A7eSKoAQ)
 
 ### Here is a demo for the smart home customized built-in intent hijacking. 
 
