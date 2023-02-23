@@ -30,7 +30,7 @@ Then we link the Drone account to Alexa DroneMobile Skill to test their commands
 ## Major findings
 ### Here is a demo for the smart home different category skill hijacking. These kind of hacking can lead to Denial-of-Service attacks, which can block some critical actions of devices, e.g., locking.
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/9H6A7eSKoAQ)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/5bHIiW2va0k)
 
 
 
