@@ -28,20 +28,20 @@ Then we link the Drone account to Alexa DroneMobile Skill to test their commands
 
 
 ## Major findings
-### Here is a demo for the smart home different category skill hijacking. These kind of hacking can lead to Denial-of-Service attacks, which can block some critical actions of devices, e.g., locking.
+### Here is a demo for the smart home different category skill hijacking. This kind of hacking can lead to Denial-of-Service attacks, which can block some critical actions of devices, e.g., locking.
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/6UI7uATJmi4)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube3.png)](https://youtu.be/wa8ok5Zywmo)
 
 
 
 ### Here is a demo for the connected car skill hijacking with customized intent. 
 
-[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/qXoLW47Bw64)
+[![Watch the video](https://github.com/voice-assistant-research/IoT-skills/blob/main/images/youtube.png)](https://youtu.be/row9IzzEQpU)
 
 
 ### Problematic Skills in Smart home skills
 
-We tested all 3122 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong implemented skills on the Amazon Alexa’s skill store.
+We tested all 3122 Amazon skills in the smart home category (as of June. 2022). We identified 67 potential wrong-implemented skills on Amazon Alexa’s skill store.
 
 Skill Hijacking Category | # of Skills | Example | Utterances|
 :---: | :---: | :---:| :---:|
